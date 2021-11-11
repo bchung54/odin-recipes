@@ -1,0 +1,22 @@
+h1 {
+    color: gold;
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cover-gif {
+    width: max-content;
+    height: 500px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul a {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(159, 100, 237);
+    text-decoration: none;
+}
